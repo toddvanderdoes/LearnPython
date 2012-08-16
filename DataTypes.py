@@ -4,7 +4,7 @@ This module will briefly go over the various primative datatypes available in py
 
 ########################################################
 #################### Comments ##########################
-i#######################################################
+########################################################
 
 # Comments can be written by starting a line with a hash
 
